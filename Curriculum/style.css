@@ -1,0 +1,51 @@
+body { background-image: url(./img/Bubbletown_002.png);
+    background-size: cover;
+
+
+    
+
+}
+
+h3{
+
+font-family: "Mynerve", cursive;
+text-decoration: underline;
+background-color:  blueviolet;
+
+
+}
+
+
+h1{
+font-family: Georgia, 'Times New Roman', Times, serif;
+background-color: blue;
+display: inline;
+
+
+}
+
+li{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+background-color: crimson;
+
+}
+
+#foto { 
+display: inline;
+height: 10cm ;
+
+}
+
+#Titulo {
+
+display: inline;
+
+
+}
+
+nav { 
+
+   display: inline-block;
+   width: 100%;
+ text-align: center;
+}
